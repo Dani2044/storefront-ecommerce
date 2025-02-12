@@ -24,8 +24,8 @@
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/NintenShop.git
-cd NintenShop
+git clone https://github.com/Dani2044/Online-Store.git
+cd Online-Store
 ```
 ## 2. Open the Project
 
